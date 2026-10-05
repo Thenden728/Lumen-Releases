@@ -1,0 +1,14 @@
+Lumen, copyright 2026 Thenden728. All rights reserved in the original
+application code and original artwork, except as expressly granted here.
+
+Permission is granted to use Lumen free of charge for personal or commercial
+purposes and to share its unmodified official installer without charge.
+This permission does not grant rights to third-party wallpapers or content.
+The original application source code is not licensed as open source.
+
+Third-party components remain subject to their own licenses. Nothing here
+limits rights granted by those licenses, including LGPL library replacement
+and reverse engineering for debugging modifications to those libraries.
+
+The application is provided as is, without a warranty. Applicable statutory
+rights remain unaffected. Support: https://github.com/Thenden728/Lumen-Releases/issues
