@@ -1,0 +1,15 @@
+name: Предложить идею
+description: Как сделать ваше пространство ещё лучше?
+title: "[Идея] "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Что хочется добавить или улучшить?
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: Как вы будете этим пользоваться?
+      description: Пример ситуации помогает подобрать удобное решение.

@@ -1,0 +1,32 @@
+name: Сообщить об ошибке
+description: Помогите сделать Lumen лучше.
+title: "[Ошибка] "
+body:
+  - type: markdown
+    attributes:
+      value: "Не добавляйте API-ключи, пароли и личные журналы без проверки."
+  - type: input
+    id: version
+    attributes:
+      label: Версия Lumen и Windows
+      placeholder: "Lumen 0.1.0 · Windows 11"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Что вы делали?
+      description: Шаги, по которым можно повторить проблему.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Что ожидали и что получилось?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты и дополнительные сведения
+      description: Для проблемы с каталогом укажите сервис и ссылку на работу.
